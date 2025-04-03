@@ -1,0 +1,66 @@
+{
+  "architecture/extension-architecture.mmd": {
+    "timestamp": 1743668973089,
+    "hash": "ceeff8fcae815ec26151a288c4d190fe"
+  },
+  "architecture/README.md": {
+    "timestamp": 1743668981912,
+    "hash": "cd16eca87a4c374f0f2c4872acec973f"
+  },
+  "cline-customization/clineignore.md": {
+    "timestamp": 1743668995779,
+    "hash": "2706e75f56fce541386d97094ad31e7c"
+  },
+  "getting-started-new-coders/installing-dev-essentials.md": {
+    "timestamp": 1743669018035,
+    "hash": "8486fb6d6c103e415c2452a353c80b4c"
+  },
+  "getting-started-new-coders/README.md": {
+    "timestamp": 1743669040684,
+    "hash": "93d8621767e532ebf93bf161b06554ec"
+  },
+  "mcp/mcp-quickstart.md": {
+    "timestamp": 1743669068823,
+    "hash": "addd5349cd73c693c530a28c93bb3bf2"
+  },
+  "mcp/mcp-server-from-github.md": {
+    "timestamp": 1743669089672,
+    "hash": "16212bde55b6cfbc51e30eb41d52b737"
+  },
+  "mcp/mcp-server-from-scratch.md": {
+    "timestamp": 1743669125925,
+    "hash": "75c8ac7020a4e5661179ff63cbcaa580"
+  },
+  "mcp/README.md": {
+    "timestamp": 1743669147170,
+    "hash": "0df03d7f0cdff741a5f8dbbfa44ff2eb"
+  },
+  "PRIVACY.md": {
+    "timestamp": 1743669151213,
+    "hash": "a8f054bdc7d6357f8addbe18267a8314"
+  },
+  "prompting/custom instructions library/cline-memory-bank.md": {
+    "timestamp": 1743669174538,
+    "hash": "fe46f0bf40ff9c90e40c48c912696b38"
+  },
+  "prompting/custom instructions library/raw-instructions/cline-memory-bank.md": {
+    "timestamp": 1743669199771,
+    "hash": "e27dcd90c3b50c284afb633c4afbf795"
+  },
+  "prompting/custom instructions library/README.md": {
+    "timestamp": 1743669210901,
+    "hash": "0268280ed6b23bd88b40daf43ecf7fef"
+  },
+  "prompting/README.md": {
+    "timestamp": 1743669265782,
+    "hash": "c1eb8f5eaa80ce87aafff9a8b5ff6ffd"
+  },
+  "README.md": {
+    "timestamp": 1743669275510,
+    "hash": "6bd68ade542a96cac3de68ea51177aff"
+  },
+  "tools/cline-tools-guide.md": {
+    "timestamp": 1743669293723,
+    "hash": "4decb2b6748046da9fd46bb39808c70b"
+  }
+}
